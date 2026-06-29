@@ -1,0 +1,5 @@
+scrix
+  -> starts capture backend
+  -> backend uses xdg-desktop-portal/PipeWire
+  -> backend sends video to encoder
+  -> writes output.mp4
